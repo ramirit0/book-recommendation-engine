@@ -3,8 +3,8 @@
 Reading has been a lifelong passion of mine, and during my senior year of college, I took a step further to intertwine my interest in books with my growing interest in data science.
 What started as a part-time job at one of my favorite bookstores turned into an opportunity to bridge the gap between two of my greatest passions.
 
-I have created the BookRecommender project to showcase my skills as an aspiring data analyst while combining my expertise in data science with my profound knowledge of literature. 
-The project aims to provide a personalized book recommendation system based on user preferences and reading habits.
+I have created the BookRecommender project to showcase my skills as an aspiring data analyst while combining my expertise in data science with my interest in literature.
+This project aims to provide a personalized book recommendation system based on a list of favorite books and similar users.
 
 ## Project Highlights
 
