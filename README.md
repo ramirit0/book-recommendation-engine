@@ -16,8 +16,8 @@ The project aims to provide a personalized book recommendation system based on u
 
 ...
 
-The BookRecommender project not only demonstrates my technical skills in data analytics but also serves as a testament to my passion for deriving meaningful insights. 
-As a data analyst, I bring a unique perspective that combines analytical prowess with a genuine love for literature, making me a well-rounded candidate for roles that require both technical proficiency and a creative mindset.
+The BookRecommender project is intended to demonstrate my technical skills in data analytics and also serves as a testament to my ability to derive meaningful insights. 
+As a data analyst, I intend to bring a unique perspective that combines analytical prowess with unique interests, which I belive makes me a well-rounded candidate for roles that require both technical proficiency and creativity
 
 ## Credits
 
