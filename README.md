@@ -1,6 +1,6 @@
 # Welcome to my Book Recommendation Project
 
-Reading has been a lifelong passion of mine, and during my senior year of college, I took a step further to intertwine my love for books with my growing interest in data science. 
+Reading has been a lifelong passion of mine, and during my senior year of college, I took a step further to intertwine my interest in books with my growing interest in data science.
 What started as a part-time job at one of my favorite bookstores turned into an opportunity to bridge the gap between two of my greatest passions.
 
 I have created the BookRecommender project to showcase my skills as an aspiring data analyst while combining my expertise in data science with my profound knowledge of literature. 
@@ -18,3 +18,11 @@ The project aims to provide a personalized book recommendation system based on u
 
 The BookRecommender project not only demonstrates my technical skills in data analytics but also serves as a testament to my passion for deriving meaningful insights. 
 As a data analyst, I bring a unique perspective that combines analytical prowess with a genuine love for literature, making me a well-rounded candidate for roles that require both technical proficiency and a creative mindset.
+
+## Credits
+
+This project is sourced from a publicly posted kaggle dataset. The data was originally scraped from the goodreads website by researchers at UC San Diego. The link to the dataset is provided below.
+https://www.kaggle.com/datasets/tanavbajaj/ucsd-goodreads-dataset/code
+
+The project is orignally inspired by a youtube video from Dataquest which is linked below.
+https://www.youtube.com/watch?v=mrWzQy_Lddc
