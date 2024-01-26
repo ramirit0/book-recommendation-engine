@@ -1,14 +1,14 @@
-,book_id,title,rating,user_id
-35132,4030991,Shoe Dog,5,-1
-117471,35239798,The Courage to be Disliked,5,-1
-134880,25899336,When Breath Becomes Air,5,-1
-176533,6856680,Outliers,5,-1
-206194,8238259,Cloud Atlas,4,-1
-345891,11987,The Myth of Sisyphus and Other Essays,4,-1
-411052,75855,Utopia,3,-1
-583667,18373,Flowers for Algernon,5,-1
-893083,133518,The Things They Carried,5,-1
-996572,275612,My Bloody Life: The Making of a Latin King,5,-1
-1226423,108713,Pimp: The Story of My Life,5,-1
-1443571,357636,Civilization and Its Discontents,4,-1
-1479294,596686,"Once a King, Always a King",4,-1
+,book_id,title,mod_title,rating,user_id
+35132,4030991,Shoe Dog,shoe dog phil knight,5,-1
+117471,35239798,The Courage to be Disliked,the courage to be disliked ichiro kishimi fumitake koga,5,-1
+134880,25899336,When Breath Becomes Air,when breath becomes air paul kalanithi abraham verghese,5,-1
+176533,6856680,Outliers,outliers malcolm gladwell,5,-1
+206194,8238259,Cloud Atlas,cloud atlas david mitchell,4,-1
+345891,11987,The Myth of Sisyphus and Other Essays,the myth of sisyphus and other essays albert camus justin obrien,4,-1
+411052,75855,Utopia,utopia thomas more robert m adams,3,-1
+583667,18373,Flowers for Algernon,flowers for algernon daniel keyes,5,-1
+893083,133518,The Things They Carried,the things they carried tim obrien,5,-1
+996572,275612,My Bloody Life: The Making of a Latin King,my bloody life the making of a latin king reymundo sanchez,5,-1
+1226423,108713,Pimp: The Story of My Life,pimp the story of my life iceberg slim,5,-1
+1443571,357636,Civilization and Its Discontents,civilization and its discontents sigmund freud james strachey peter gay,4,-1
+1479294,596686,"Once a King, Always a King",once a king always a king sanchez raymundo,4,-1
