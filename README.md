@@ -12,9 +12,7 @@ This project aims to provide a personalized book recommendation system based on 
 - **Categorization and Prediction**: Leverage my expertise in data science to categorize variables, search for matching strings, and train predictive models. The BookRecommender utilizes advanced algorithms to analyze reading preferences and offer personalized recommendations.
 - **User-Friendly Interface**: The project focuses not only on the technical aspects but also on creating a user-friendly interface. Navigating through the system is intuitive, making it easy for users to find recommendations tailored to their tastes.
 
-## How it Works
-
-...
+## Intention
 
 The BookRecommender project is intended to demonstrate my technical skills in data analytics and also serves as a testament to my ability to derive meaningful insights. 
 As a data analyst, I intend to bring a unique perspective that combines analytical prowess with unique interests, which I belive makes me a well-rounded candidate for roles that require both technical proficiency and creativity
